@@ -1,0 +1,70 @@
+[
+  {
+    "Name": "Cake",
+    "Description": "string",
+    "Category": 1,
+    "ItemPrice": 1,
+    "PrepTimeInSec": 1,
+    "CookTimeInSec": 5,
+    "ChefRecommendation": false,
+    "Id": 1,
+    "Ingredients": [
+      {
+        "stockId": 5,
+        "quantity": 5
+      },
+      {
+        "stockId": 6,
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "Name": "Beef Caldereta",
+    "Description": "string",
+    "Category": 2,
+    "ItemPrice": 1.0,
+    "PrepTimeInSec": 1,
+    "CookTimeInSec": 5,
+    "ChefRecommendation": true,
+    "Id": 2,
+    "Ingredients": [
+      {
+        "stockId": 1,
+        "quantity": 1
+      },
+      {
+        "stockId": 2,
+        "quantity": 1
+      },
+      {
+        "stockId": 3,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "Name": "Adobo",
+    "Description": "string",
+    "Category": 2,
+    "ItemPrice": 1.0,
+    "PrepTimeInSec": 1,
+    "CookTimeInSec": 5,
+    "ChefRecommendation": true,
+    "Id": 2,
+    "Ingredients": [
+      {
+        "stockId": 7,
+        "quantity": 1
+      },
+      {
+        "stockId": 2,
+        "quantity": 1
+      },
+      {
+        "stockId": 3,
+        "quantity": 1
+      }
+    ]
+  }  
+]
